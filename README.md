@@ -26,3 +26,7 @@ The SQL Query Generator is a web application built using Streamlit that allows u
    ```bash
    cd Query-Generator
    ```
+## Preview
+
+![Screenshot 2024-11-04 104556](https://github.com/user-attachments/assets/5343e832-2eb9-4f8a-b338-fedcb99d272d)
+
