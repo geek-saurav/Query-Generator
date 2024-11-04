@@ -1,2 +1,2 @@
-streamlit==1.19.0
-pip install google-generativeai
+streamlit
+google-generativeai
